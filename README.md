@@ -2,7 +2,8 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me aungaung.channyein@gmail.com
+
 
 
 <!---
