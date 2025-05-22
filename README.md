@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aungaungchannyein
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning nextjs
+- 🌱 I’m currently learning nextjs and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me aungaung.channyein@gmail.com
 
